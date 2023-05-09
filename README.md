@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-My name is *Bartosz* and I am an inspired web developer dedicated to crafting beautiful products through coding. I am constantly pushing myself to learn and grow in this field. Witnessing a few lines of code come to life and transform into a stunning web application is a thrill that drives my passion. Join me on this journey of creating innovative and captivating web experiences.
+My name is **Bartosz** and I am an inspired web developer dedicated to crafting beautiful products through coding. I am constantly pushing myself to **learn** and **grow** in this field. Witnessing a few lines of code come to life and transform into a stunning web application is a thrill that drives my passion. Join me on this journey of creating innovative and captivating web experiences.
+
+### My latest projects
+
+[WeVe Weddng Venue - find your perfect wedding venue | MERN Web Application](https://weve.netlify.app/)
+[discountHUB - share your latest found discounts | Full-stack Web Application](https://discounthubnl.adaptable.app/)
+[Banana Lover - JavaScript | Game](https://bartoszde.github.io/banana-lover/index.html)
 
 ---
 ### I'm familiar with
