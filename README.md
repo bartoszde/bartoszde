@@ -4,7 +4,7 @@ My name is *Bartosz* and I am an inspired web developer dedicated to crafting be
 
 ---
 ### I'm familiar with
-
+![JavaScript](JavaScript.png | width=100)
 
 
 <!--
