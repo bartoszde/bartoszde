@@ -4,7 +4,7 @@ My name is *Bartosz* and I am an inspired web developer dedicated to crafting be
 
 ---
 ### I'm familiar with
-<img src="./images/JavaScript.png" alt="JavaScript" width="50" height="50"> | ![ExpressJs](./images/ExpressJs.png) | ![JavaScript](./images/nodeJs.png) | ![ReactJs](./images/ReactJs.png ) | ![MongoDB](./images/MongoDB.png ) | ![HTML](./images/html.png) | ![CSS](./images/css.png ) | ![Bootstrap](./images/Bootstrap.png )
+<img src="./images/JavaScript.png" alt="JavaScript" width="auto" height="50"> | !<img src="./images/ExpressJs.png" alt="ExpressJs" width="auto" height="50"> | <img src="./images/nodeJs.png" alt="NodeJs" width="auto" height="50">  | <img src="./images/ReactJs.png" alt="ReactJs" width="auto" height="50">  | <img src="./images/MongoDB.png" alt="MongoDB" width=auto height="50">  | <img src="./images/html.png" alt="html" width="auto" height="50">  | <img src="./images/css.png" alt="css" width="auto" height="50">  | <img src="./images/Bootstrap.png" alt="Bootstrap" width="auto" height="50"> 
 
 
 <!--
