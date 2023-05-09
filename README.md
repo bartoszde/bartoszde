@@ -3,7 +3,7 @@
 My name is *Bartosz* and I am an inspired web developer dedicated to crafting beautiful products through coding. I am constantly pushing myself to learn and grow in this field. Witnessing a few lines of code come to life and transform into a stunning web application is a thrill that drives my passion. Join me on this journey of creating innovative and captivating web experiences.
 
 ---
-# I'm familiar with
+### I'm familiar with
 
 
 
