@@ -4,9 +4,11 @@ My name is **Bartosz** and I am an inspired web developer dedicated to crafting 
 
 ### My latest projects
 
-[WeVe Weddng Venue - find your perfect wedding venue | MERN Web Application](https://weve.netlify.app/)
-[discountHUB - share your latest found discounts | Full-stack Web Application](https://discounthubnl.adaptable.app/)
-[Banana Lover - JavaScript | Game](https://bartoszde.github.io/banana-lover/index.html)
+🎊 [WeVe Weddng Venue - find your perfect wedding venue | MERN Web Application](https://weve.netlify.app/)
+
+🛒 [discountHUB - share your latest found discounts | Full-stack Web Application](https://discounthubnl.adaptable.app/)
+
+🍌 [Banana Lover - JavaScript | Game](https://bartoszde.github.io/banana-lover/index.html)
 
 ---
 ### I'm familiar with
